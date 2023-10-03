@@ -1,0 +1,80 @@
+* {
+  color: white;
+}
+
+.header {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.container00 {
+  min-width: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.arrowDown {
+  display: inline-block;
+  width: 90px;
+  margin-top: 5px;
+}
+
+.logoPc {
+  width: 240px;
+  margin-left: -10px;
+  margin-right: 25px;
+}
+
+#button {
+  padding: 15px 35px;
+}
+
+.footer {
+  background-color: black;
+  height: 15vh;
+  font-size: 12px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+.footer a:hover {
+  color: #b9b9b9;
+}
+.footer .copyOBC {
+  color: #555252;
+}
+
+.container00.container01 {
+  background-image: url(../../img/home/01.jpg);
+}
+.container00.container02 {
+  background-image: url(../../img/home/03.jpg);
+}
+.container00.container03 {
+  background-image: url(../../img/home/02.gif);
+}
+.container00.container04 {
+  background-image: url(../../img/home/04.jpg);
+}
+
+.titlePadding {
+  padding-top: 200px;
+}
+
+.shortTitle {
+  width: 550px;
+  margin-bottom: -25px;
+}
+
+.mediumTitle {
+  width: 640px;
+  margin-bottom: -25px;
+}
+
+/*# sourceMappingURL=style.css.map */
